@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ericsson/lte/session/controller/entity/Param.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ericsson/lte/session/entity/RequestBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ericsson/lte/session/entity/ResponseBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ericsson/lte/session/entity/ResponseResult.java" charset="UTF-8" />
+  </component>
+</project>
